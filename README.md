@@ -7,7 +7,7 @@ The Quiz application creates an exam for students by presenting a total of quest
 ## Screenshots
 <img src="https://i.ibb.co/RDw51Sr/Screenshot-1677807313.png" width="200">&nbsp;
 <img src="https://i.ibb.co/G2wxFNp/Screenshot-1677807316.png" width="200">&nbsp;
-![App Screenshot](https://i.ibb.co/RDw51Sr/Screenshot-1677807313.png)
+![App Screenshot](https://i.ibb.co/RDw51Sr/Screenshot-1677807313.png ,  width="200">&nbsp)
 ![App Screenshot](https://i.ibb.co/G2wxFNp/Screenshot-1677807316.png)
 ![App Screenshot](https://i.ibb.co/MRRxs6x/Screenshot-1677807322.png)
 ![App Screenshot](https://i.ibb.co/hsqwxNZ/Screenshot-1677807327.png)
