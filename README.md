@@ -19,4 +19,10 @@ The Quiz application creates an exam for students by presenting a total of quest
 <img src="https://i.ibb.co/gDmDdRy/Screenshot-1677807422.png" width="250">&nbsp;
 <img src="https://i.ibb.co/xf5y84C/Screenshot-1677807433.png" width="250">&nbsp;
 
+## Built With
+
+* [Java](https://www.java.com/en/) - As a programming language.
+* [Firebase](https://firebase.google.com/) - As a Online Database.
+* [Glide](https://github.com/bumptech/glide) - It is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
+
 
