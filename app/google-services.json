@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949326519329",
+    "firebase_url": "https://quiz-app-ffa7a.firebaseio.com",
+    "project_id": "quiz-app-ffa7a",
+    "storage_bucket": "quiz-app-ffa7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949326519329:android:0b1ea33976ea9e0222d760",
+        "android_client_info": {
+          "package_name": "com.mahdi.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949326519329-o149007ht0ttmiractpkj08c42sj2a6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVcekKo91qMfkkoISf41h-YSorqvh0dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949326519329-o149007ht0ttmiractpkj08c42sj2a6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

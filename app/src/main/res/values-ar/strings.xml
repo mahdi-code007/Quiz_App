@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="difficulty">الصعوبه</string>
+    <string name="total_questions">عدد الاسألة</string>
+    <string name="your_last_score">اخر درجه لك</string>
+</resources>
